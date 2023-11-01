@@ -1,7 +1,7 @@
 # E-Commerce-Backend
 ![GitHub license](https://img.shields.io/badge/license-MIT-red)
 ## Description
-This task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.
+This task is to build the back end for an e-commerce site by taking a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 ## Table of Contents
 - [Installation](#installation)
